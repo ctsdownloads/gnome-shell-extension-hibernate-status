@@ -8,6 +8,8 @@ Forked from  [@arelange](https://github.com/arelange).
 
 Supports GNOME 45, 46, and 47.
 
+Hybrid Sleep was removed by choice.
+
 ## FAQ
 
 ### Hibernation does not work
