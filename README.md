@@ -6,7 +6,7 @@ Originally developed by [@arelange](https://github.com/arelange) and then [@p91p
 
 Forked from  [@arelange](https://github.com/arelange).
 
-Supports GNOME 45, 46, and 47.
+Supports GNOME 45, 46, 47 and 48.
 
 Hybrid Sleep was removed by choice.
 
